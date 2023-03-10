@@ -1,4 +1,4 @@
-#_Red neuronal convolucional en Python desde cero_
+**##Red neuronal convolucional en Python desde cero**
 
 Este proyecto tiene como objetivo crear una red neuronal convolucional en Python desde cero, utilizando las bibliotecas NumPy y TensorFlow.
 
